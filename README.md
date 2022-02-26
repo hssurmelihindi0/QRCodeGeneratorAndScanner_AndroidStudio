@@ -1,0 +1,2 @@
+# QRCodeGeneratorAndScanner_AndroidStudio
+ QRCodeGeneratorAndScanner
